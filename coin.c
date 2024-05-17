@@ -29,6 +29,21 @@ int main() {
     scanf("%d", &amount);
 
     int amountCopy = amount;  // Copy of the original amount to use for printing later
+    // 15puzzle.c
+// coin.c
+// djikstra.c
+// dynamiccoin.c
+// job.c
+// kmp.c
+// knapsack.c
+// kuskals.c
+// lcs.c
+// matrixchain.c
+// nqueen.c
+// prims.c
+// strassens.c
+// sumofsubsets.c
+// tsp.c
 
     int minCoinsRequired = minCoins(coins, n, amount, usedCoins);
 
